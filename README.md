@@ -25,7 +25,7 @@ I'm a passionate red teamer and AI security enthusiast based in Morocco. I'm on 
 *Coming soon — 24 projects over 24 months*
 
 ## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=rtx772-eng&show_icons=true&theme=radical)
 
 ## 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
